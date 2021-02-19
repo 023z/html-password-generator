@@ -2,6 +2,7 @@
 [![Firefox port](https://img.shields.io/badge/Ported%20on-Firefox-orange.svg?style=popout-square&logo=mozilla-firefox)](https://github.com/xvello/salasana-webextension)
 
 # password-generator
+基于统一的 主密码+网站，生成不同的密码！
 
 The static webpage allows you to generate site-specific password from a single master password. This avoids the hassle of remembering a unique password for each website you sign up to.
 
